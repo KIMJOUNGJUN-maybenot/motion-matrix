@@ -1,5 +1,5 @@
 ﻿#include "iaMotionSphere_3.h"
-#include "iaMotionSphere.h"
+#include "iaMotionSphere.h"//edit orthre
 #include <iostream>
 #include <iomanip>
 #include "iaPositionTracking.h"
